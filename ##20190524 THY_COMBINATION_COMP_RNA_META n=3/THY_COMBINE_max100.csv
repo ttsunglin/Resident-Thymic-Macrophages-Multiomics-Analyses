@@ -1,0 +1,329 @@
+Дж1,PATHWAY_ID,PATHWAY,TOTAL_COMP,COMP_MATCH,COMP_P_VALUE,TOTAL_GENE,GENE_MATCH,GENE_P_VALUE,TOTAL_COMPONENT,COMPONENT_MATCH,COMPONENT_P_VALUE
+288,path:mmu05169,Epstein-Barr virus infection - Mus musculus (mouse),3,0,1,230,46,1.7814E-11,233,46,1.22119E-13
+171,path:mmu04514,Cell adhesion molecules (CAMs) - Mus musculus (mouse),0,0,1,171,38,4.21883E-11,171,38,3.73817E-13
+320,path:mmu05323,Rheumatoid arthritis - Mus musculus (mouse),3,0,1,84,25,1.37054E-10,87,25,1.07509E-11
+122,path:mmu04060,Cytokine-cytokine receptor interaction - Mus musculus (mouse),0,0,1,296,47,3.10033E-08,296,47,2.06064E-10
+186,path:mmu04640,Hematopoietic cell lineage - Mus musculus (mouse),0,0,1,95,24,1.22321E-08,95,24,5.30774E-10
+178,path:mmu04612,Antigen processing and presentation - Mus musculus (mouse),0,0,1,91,23,2.44607E-08,91,23,1.20618E-09
+318,path:mmu05321,Inflammatory bowel disease (IBD) - Mus musculus (mouse),0,0,1,59,18,3.52556E-08,59,18,2.93951E-09
+283,path:mmu05164,Influenza A - Mus musculus (mouse),3,0,1,164,31,1.4969E-07,167,31,6.22635E-09
+123,path:mmu04061,Viral protein interaction with cytokine and cytokine receptor - Mus musculus (mouse),0,0,1,103,22,1.16195E-06,103,22,7.59925E-08
+322,path:mmu05332,Graft-versus-host disease - Mus musculus (mouse),2,0,1,65,17,9.85139E-07,67,17,1.66448E-07
+274,path:mmu05144,Malaria - Mus musculus (mouse),5,0,1,49,15,4.68886E-07,54,15,2.456E-07
+278,path:mmu05152,Tuberculosis - Mus musculus (mouse),18,0,1,178,31,9.8515E-07,196,31,2.85856E-07
+328,path:mmu05418,Fluid shear stress and atherosclerosis - Mus musculus (mouse),8,0,1,143,26,3.25334E-06,151,26,4.88723E-07
+327,path:mmu05416,Viral myocarditis - Mus musculus (mouse),0,0,1,88,19,5.25943E-06,88,19,4.90603E-07
+144,path:mmu04145,Phagosome - Mus musculus (mouse),1,0,1,181,29,1.20693E-05,182,29,5.89229E-07
+240,path:mmu04940,Type I diabetes mellitus - Mus musculus (mouse),3,0,1,70,17,3.01519E-06,73,17,6.29247E-07
+124,path:mmu04062,Chemokine signaling pathway - Mus musculus (mouse),5,0,1,200,31,1.20915E-05,205,31,7.85474E-07
+190,path:mmu04659,Th17 cell differentiation - Mus musculus (mouse),4,0,1,102,20,1.39249E-05,106,20,2.36428E-06
+189,path:mmu04658,Th1 and Th2 cell differentiation - Mus musculus (mouse),3,0,1,87,18,1.73277E-05,90,18,3.16244E-06
+271,path:mmu05140,Leishmaniasis - Mus musculus (mouse),6,0,1,67,16,7.43636E-06,73,16,3.16682E-06
+180,path:mmu04620,Toll-like receptor signaling pathway - Mus musculus (mouse),0,0,1,99,19,3.12149E-05,99,19,3.23535E-06
+321,path:mmu05330,Allograft rejection - Mus musculus (mouse),1,0,1,64,15,1.82388E-05,65,15,3.24258E-06
+195,path:mmu04668,TNF signaling pathway - Mus musculus (mouse),0,0,1,110,20,4.4006E-05,110,20,4.29212E-06
+166,path:mmu04380,Osteoclast differentiation - Mus musculus (mouse),3,0,1,128,22,4.56075E-05,131,22,5.61217E-06
+125,path:mmu04064,NF-kappa B signaling pathway - Mus musculus (mouse),3,0,1,109,20,3.83942E-05,112,20,5.71338E-06
+285,path:mmu05166,Human T-cell leukemia virus 1 infection - Mus musculus (mouse),5,0,1,246,33,0.00012597,251,33,8.13741E-06
+287,path:mmu05168,Herpes simplex virus 1 infection - Mus musculus (mouse),3,0,1,439,49,0.000360443,442,49,8.26311E-06
+142,path:mmu04142,Lysosome - Mus musculus (mouse),4,0,1,124,21,8.43792E-05,128,21,1.32393E-05
+323,path:mmu05340,Primary immunodeficiency - Mus musculus (mouse),0,0,1,36,10,9.95307E-05,36,10,2.54045E-05
+184,path:mmu04625,C-type lectin receptor signaling pathway - Mus musculus (mouse),12,0,1,112,20,5.74684E-05,124,20,2.73277E-05
+7,path:mmu00053,Ascorbate and aldarate metabolism - Mus musculus (mouse),49,13,1.86803E-09,27,1,0.851358156,76,14,0.000100394
+282,path:mmu05163,Human cytomegalovirus infection - Mus musculus (mouse),6,0,1,256,31,0.001184752,262,31,0.000116975
+292,path:mmu05203,Viral carcinogenesis - Mus musculus (mouse),0,0,1,231,28,0.001984664,231,28,0.00016397
+197,path:mmu04672,Intestinal immune network for IgA production - Mus musculus (mouse),2,0,1,43,10,0.000486922,45,10,0.000198641
+275,path:mmu05145,Toxoplasmosis - Mus musculus (mouse),3,0,1,108,17,0.000932858,111,17,0.000206248
+316,path:mmu05310,Asthma - Mus musculus (mouse),5,0,1,25,8,0.000168242,30,8,0.000226598
+181,path:mmu04621,NOD-like receptor signaling pathway - Mus musculus (mouse),6,0,1,206,26,0.001596595,212,26,0.000230188
+169,path:mmu04510,Focal adhesion - Mus musculus (mouse),2,0,1,199,25,0.002078434,201,25,0.000242504
+317,path:mmu05320,Autoimmune thyroid disease - Mus musculus (mouse),4,0,1,79,14,0.000788304,83,14,0.000265488
+319,path:mmu05322,Systemic lupus erythematosus - Mus musculus (mouse),3,0,1,143,20,0.00157826,146,20,0.000279206
+290,path:mmu05200,Pathways in cancer - Mus musculus (mouse),31,0,1,535,53,0.003278356,566,53,0.000336442
+38,path:mmu00472,D-Arginine and D-ornithine metabolism - Mus musculus (mouse),11,5,1.2315E-05,1,0,1,12,5,0.000360365
+3,path:mmu00030,Pentose phosphate pathway - Mus musculus (mouse),35,10,7.1914E-08,32,2,0.650792298,67,12,0.00040745
+286,path:mmu05167,Kaposi sarcoma-associated herpesvirus infection - Mus musculus (mouse),5,0,1,217,26,0.003320895,222,26,0.000475482
+272,path:mmu05142,Chagas disease (American trypanosomiasis) - Mus musculus (mouse),6,1,0.177892796,103,15,0.003962376,109,16,0.000512068
+118,path:mmu04015,Rap1 signaling pathway - Mus musculus (mouse),5,0,1,209,25,0.004030933,214,25,0.000629514
+313,path:mmu05230,Central carbon metabolism in cancer - Mus musculus (mouse),37,10,1.2929E-07,64,5,0.442964761,101,15,0.000669057
+281,path:mmu05162,Measles - Mus musculus (mouse),1,0,1,144,19,0.00398693,145,19,0.000689334
+315,path:mmu05235,PD-L1 expression and PD-1 checkpoint pathway in cancer - Mus musculus (mouse),4,0,1,88,14,0.002315336,92,14,0.000781769
+153,path:mmu04216,Ferroptosis - Mus musculus (mouse),31,0,1,41,12,1.1196E-05,72,12,0.000801075
+291,path:mmu05202,Transcriptional misregulation in cancer - Mus musculus (mouse),0,0,1,183,22,0.006362372,183,22,0.000890885
+251,path:mmu04974,Protein digestion and absorption - Mus musculus (mouse),47,7,0.000629978,90,11,0.041165663,137,18,0.000914492
+255,path:mmu04978,Mineral absorption - Mus musculus (mouse),29,4,0.012844946,45,8,0.010055357,74,12,0.00102943
+215,path:mmu04810,Regulation of actin cytoskeleton - Mus musculus (mouse),5,0,1,217,25,0.006539378,222,25,0.001074907
+279,path:mmu05160,Hepatitis C - Mus musculus (mouse),2,0,1,160,20,0.005900956,162,20,0.001078897
+192,path:mmu04662,B cell receptor signaling pathway - Mus musculus (mouse),4,0,1,72,12,0.003134124,76,12,0.001309438
+196,path:mmu04670,Leukocyte transendothelial migration - Mus musculus (mouse),4,0,1,115,16,0.004713993,119,16,0.001349585
+238,path:mmu04933,AGE-RAGE signaling pathway in diabetic complications - Mus musculus (mouse),9,0,1,101,15,0.003273958,110,15,0.001633478
+4,path:mmu00040,Pentose and glucuronate interconversions - Mus musculus (mouse),55,13,8.78798E-09,34,0,1,89,13,0.001747096
+163,path:mmu04360,Axon guidance - Mus musculus (mouse),1,0,1,180,21,0.010546392,181,21,0.001809649
+20,path:mmu00240,Pyrimidine metabolism - Mus musculus (mouse),65,9,0.000184404,58,7,0.097167076,123,16,0.001916014
+289,path:mmu05170,Human immunodeficiency virus 1 infection - Mus musculus (mouse),5,0,1,239,26,0.011585537,244,26,0.001920955
+115,path:mmu04010,MAPK signaling pathway - Mus musculus (mouse),5,0,1,294,30,0.016471383,299,30,0.002303741
+149,path:mmu04210,Apoptosis - Mus musculus (mouse),4,0,1,136,17,0.010651241,140,17,0.002957052
+117,path:mmu04014,Ras signaling pathway - Mus musculus (mouse),7,0,1,233,25,0.015429277,240,25,0.003154263
+308,path:mmu05222,Small cell lung cancer - Mus musculus (mouse),3,0,1,92,13,0.0090838,95,13,0.003156768
+185,path:mmu04630,JAK-STAT signaling pathway - Mus musculus (mouse),0,0,1,165,19,0.016532698,165,19,0.003183296
+147,path:mmu04151,PI3K-Akt signaling pathway - Mus musculus (mouse),4,1,0.122387849,358,33,0.045073111,362,34,0.003606279
+53,path:mmu00562,Inositol phosphate metabolism - Mus musculus (mouse),47,11,1.48412E-07,73,4,0.741553431,120,15,0.003855605
+183,path:mmu04623,Cytosolic DNA-sensing pathway - Mus musculus (mouse),1,0,1,64,10,0.010628343,65,10,0.003928308
+188,path:mmu04657,IL-17 signaling pathway - Mus musculus (mouse),0,0,1,91,12,0.019945495,91,12,0.006051367
+280,path:mmu05161,Hepatitis B - Mus musculus (mouse),1,0,1,163,18,0.028179739,164,18,0.006656738
+326,path:mmu05414,Dilated cardiomyopathy (DCM) - Mus musculus (mouse),3,0,1,90,12,0.018409702,93,12,0.007195765
+268,path:mmu05132,Salmonella infection - Mus musculus (mouse),4,1,0.122387849,78,10,0.037919533,82,11,0.007397718
+191,path:mmu04660,T cell receptor signaling pathway - Mus musculus (mouse),4,0,1,101,13,0.019036855,105,13,0.00745487
+194,path:mmu04666,Fc gamma R-mediated phagocytosis - Mus musculus (mouse),8,0,1,87,12,0.01433155,95,12,0.00850383
+277,path:mmu05150,Staphylococcus aureus infection - Mus musculus (mouse),2,0,1,96,12,0.029087407,98,12,0.010805642
+324,path:mmu05410,Hypertrophic cardiomyopathy (HCM) - Mus musculus (mouse),3,0,1,86,11,0.0308323,89,11,0.013418883
+18,path:mmu00230,Purine metabolism - Mus musculus (mouse),95,8,0.010400024,136,14,0.078482666,231,22,0.014764226
+182,path:mmu04622,RIG-I-like receptor signaling pathway - Mus musculus (mouse),0,0,1,68,9,0.039897309,68,9,0.015975198
+273,path:mmu05143,African trypanosomiasis - Mus musculus (mouse),8,0,1,39,7,0.014889239,47,7,0.017592079
+261,path:mmu05020,Prion diseases - Mus musculus (mouse),3,0,1,34,6,0.025422627,37,6,0.01840307
+302,path:mmu05216,Thyroid cancer - Mus musculus (mouse),0,0,1,37,6,0.037036075,37,6,0.01840307
+70,path:mmu00740,Riboflavin metabolism - Mus musculus (mouse),20,2,0.133464004,8,3,0.013565591,28,5,0.020743875
+301,path:mmu05215,Prostate cancer - Mus musculus (mouse),11,0,1,97,12,0.031229189,108,12,0.022049434
+172,path:mmu04520,Adherens junction - Mus musculus (mouse),0,0,1,72,9,0.054372451,72,9,0.022523649
+96,path:mmu02010,ABC transporters - Mus musculus (mouse),125,10,0.006157795,48,7,0.042216607,173,17,0.022685524
+187,path:mmu04650,Natural killer cell mediated cytotoxicity - Mus musculus (mouse),4,0,1,118,13,0.05726963,122,13,0.024082419
+304,path:mmu05218,Melanoma - Mus musculus (mouse),1,0,1,72,9,0.054372451,73,9,0.024422958
+55,path:mmu00564,Glycerophospholipid metabolism - Mus musculus (mouse),52,3,0.232413506,97,12,0.031229189,149,15,0.025679958
+155,path:mmu04218,Cellular senescence - Mus musculus (mouse),5,0,1,186,18,0.082013968,191,18,0.028220969
+33,path:mmu00410,beta-Alanine metabolism - Mus musculus (mouse),32,4,0.018070749,32,4,0.17016976,64,8,0.030548707
+284,path:mmu05165,Human papillomavirus infection - Mus musculus (mouse),3,0,1,361,30,0.146658314,364,30,0.032045016
+176,path:mmu04610,Complement and coagulation cascades - Mus musculus (mouse),1,0,1,88,10,0.074905152,89,10,0.032518117
+298,path:mmu05212,Pancreatic cancer - Mus musculus (mouse),2,0,1,75,9,0.0672223,77,9,0.033160817
+173,path:mmu04530,Tight junction - Mus musculus (mouse),1,0,1,167,16,0.103543572,168,16,0.03412466
+294,path:mmu05205,Proteoglycans in cancer - Mus musculus (mouse),7,0,1,204,19,0.100655633,211,19,0.036983791
+146,path:mmu04150,mTOR signaling pathway - Mus musculus (mouse),4,3,0.000125741,155,12,0.364606952,159,15,0.042228326
+50,path:mmu00533,Glycosaminoglycan biosynthesis - keratan sulfate - Mus musculus (mouse),0,0,1,14,3,0.065054544,14,3,0.0435511
+130,path:mmu04072,Phospholipase D signaling pathway - Mus musculus (mouse),11,0,1,149,15,0.081738723,160,15,0.044223307
+134,path:mmu04115,p53 signaling pathway - Mus musculus (mouse),0,0,1,71,8,0.108071898,71,8,0.051856806
+56,path:mmu00565,Ether lipid metabolism - Mus musculus (mouse),25,0,1,47,8,0.013022683,72,8,0.05552345
+325,path:mmu05412,Arrhythmogenic right ventricular cardiomyopathy (ARVC) - Mus musculus (mouse),2,0,1,72,8,0.114784329,74,8,0.063341236
+296,path:mmu05210,Colorectal cancer - Mus musculus (mouse),1,0,1,88,9,0.143180957,89,9,0.071615782
+11,path:mmu00072,Synthesis and degradation of ketone bodies - Mus musculus (mouse),6,0,1,11,3,0.034300707,17,3,0.071618741
+108,path:mmu03320,PPAR signaling pathway - Mus musculus (mouse),5,0,1,85,9,0.122780782,90,9,0.075709945
+226,path:mmu04920,Adipocytokine signaling pathway - Mus musculus (mouse),7,0,1,71,8,0.108071898,78,8,0.080938273
+300,path:mmu05214,Glioma - Mus musculus (mouse),4,0,1,75,8,0.136224541,79,8,0.085747934
+305,path:mmu05219,Bladder cancer - Mus musculus (mouse),0,0,1,41,5,0.143609729,41,5,0.086119158
+126,path:mmu04066,HIF-1 signaling pathway - Mus musculus (mouse),15,0,1,105,11,0.10030382,120,11,0.087300299
+235,path:mmu04930,Type II diabetes mellitus - Mus musculus (mouse),6,0,1,48,6,0.105278082,54,6,0.090459002
+17,path:mmu00220,Arginine biosynthesis - Mus musculus (mouse),23,3,0.035712518,19,2,0.374465722,42,5,0.09335193
+127,path:mmu04068,FoxO signaling pathway - Mus musculus (mouse),5,1,0.150589419,132,11,0.286763541,137,12,0.099183021
+314,path:mmu05231,Choline metabolism in cancer - Mus musculus (mouse),11,0,1,99,10,0.135175004,110,10,0.10403604
+28,path:mmu00340,Histidine metabolism - Mus musculus (mouse),47,6,0.003501178,24,1,0.816236696,71,7,0.115476024
+297,path:mmu05211,Renal cell carcinoma - Mus musculus (mouse),3,0,1,68,7,0.178355699,71,7,0.115476024
+256,path:mmu04979,Cholesterol metabolism - Mus musculus (mouse),10,0,1,49,6,0.113481267,59,6,0.124708893
+63,path:mmu00604,Glycosphingolipid biosynthesis - ganglio series - Mus musculus (mouse),31,0,1,15,5,0.002429934,46,5,0.125215826
+170,path:mmu04512,ECM-receptor interaction - Mus musculus (mouse),1,0,1,86,8,0.229692727,87,8,0.130027378
+270,path:mmu05134,Legionellosis - Mus musculus (mouse),2,0,1,58,6,0.20026423,60,6,0.132226292
+202,path:mmu04721,Synaptic vesicle cycle - Mus musculus (mouse),12,0,1,77,8,0.151564007,89,8,0.142648908
+264,path:mmu05032,Morphine addiction - Mus musculus (mouse),12,1,0.324378073,92,8,0.288291062,104,9,0.147608248
+160,path:mmu04330,Notch signaling pathway - Mus musculus (mouse),0,0,1,49,5,0.238966542,49,5,0.15196433
+80,path:mmu00910,Nitrogen metabolism - Mus musculus (mouse),19,1,0.462868565,17,3,0.104678354,36,4,0.152721228
+164,path:mmu04370,VEGF signaling pathway - Mus musculus (mouse),6,0,1,58,6,0.20026423,64,6,0.164339405
+6,path:mmu00052,Galactose metabolism - Mus musculus (mouse),46,5,0.014941335,32,2,0.650792298,78,7,0.164340724
+193,path:mmu04664,Fc epsilon RI signaling pathway - Mus musculus (mouse),11,0,1,68,7,0.178355699,79,7,0.17198169
+21,path:mmu00250,"Alanine, aspartate and glutamate metabolism - Mus musculus (mouse)",28,4,0.011348214,38,2,0.74146561,66,6,0.181530008
+62,path:mmu00603,Glycosphingolipid biosynthesis - globo and isoglobo series - Mus musculus (mouse),23,0,1,16,4,0.020025822,39,4,0.187164684
+252,path:mmu04975,Fat digestion and absorption - Mus musculus (mouse),13,0,1,40,5,0.133060645,53,5,0.190919018
+218,path:mmu04912,GnRH signaling pathway - Mus musculus (mouse),6,0,1,90,8,0.268312916,96,8,0.191238182
+225,path:mmu04919,Thyroid hormone signaling pathway - Mus musculus (mouse),11,0,1,115,10,0.255998135,126,10,0.193657384
+154,path:mmu04217,Necroptosis - Mus musculus (mouse),10,0,1,177,14,0.318613068,187,14,0.195096932
+221,path:mmu04915,Estrogen signaling pathway - Mus musculus (mouse),8,0,1,134,11,0.303617431,142,11,0.199576428
+128,path:mmu04070,Phosphatidylinositol signaling system - Mus musculus (mouse),29,3,0.064219358,98,7,0.504301046,127,10,0.200158446
+223,path:mmu04917,Prolactin signaling pathway - Mus musculus (mouse),11,0,1,72,7,0.217000519,83,7,0.204003832
+27,path:mmu00330,Arginine and proline metabolism - Mus musculus (mouse),78,4,0.240063934,50,6,0.121997703,128,10,0.206751956
+52,path:mmu00561,Glycerolipid metabolism - Mus musculus (mouse),38,1,0.712516381,61,7,0.118933258,99,8,0.213947167
+234,path:mmu04928,"Parathyroid hormone synthesis, secretion and action - Mus musculus (mouse)",10,1,0.278678249,107,8,0.444982987,117,9,0.23613895
+43,path:mmu00512,Mucin type O-glycan biosynthesis - Mus musculus (mouse),15,0,1,28,4,0.119168879,43,4,0.236413973
+309,path:mmu05223,Non-small cell lung cancer - Mus musculus (mouse),6,0,1,66,6,0.292149854,72,6,0.236919717
+39,path:mmu00480,Glutathione metabolism - Mus musculus (mouse),38,1,0.712516381,64,7,0.142994142,102,8,0.237624437
+143,path:mmu04144,Endocytosis - Mus musculus (mouse),6,0,1,270,19,0.474687692,276,19,0.248355307
+310,path:mmu05224,Breast cancer - Mus musculus (mouse),3,0,1,147,11,0.417513688,150,11,0.251409978
+37,path:mmu00471,D-Glutamine and D-glutamate metabolism - Mus musculus (mouse),13,2,0.063233427,4,0,1,17,2,0.258010357
+232,path:mmu04926,Relaxin signaling pathway - Mus musculus (mouse),6,0,1,131,10,0.400943254,137,10,0.269783584
+311,path:mmu05225,Hepatocellular carcinoma - Mus musculus (mouse),14,0,1,171,13,0.380758507,185,13,0.274407657
+73,path:mmu00770,Pantothenate and CoA biosynthesis - Mus musculus (mouse),28,0,1,18,4,0.030231256,46,4,0.275133607
+312,path:mmu05226,Gastric cancer - Mus musculus (mouse),4,0,1,150,11,0.444188354,154,11,0.278962227
+42,path:mmu00511,Other glycan degradation - Mus musculus (mouse),0,0,1,18,2,0.349277935,18,2,0.279962819
+152,path:mmu04215,Apoptosis - multiple species - Mus musculus (mouse),0,0,1,32,3,0.373053649,32,3,0.281987674
+129,path:mmu04071,Sphingolipid signaling pathway - Mus musculus (mouse),15,2,0.081683655,124,8,0.614591253,139,10,0.28455815
+306,path:mmu05220,Chronic myeloid leukemia - Mus musculus (mouse),1,0,1,76,6,0.41542372,77,6,0.286469739
+259,path:mmu05014,Amyotrophic lateral sclerosis (ALS) - Mus musculus (mouse),10,1,0.278678249,52,4,0.476200355,62,5,0.288656277
+65,path:mmu00630,Glyoxylate and dicarboxylate metabolism - Mus musculus (mouse),62,4,0.1363427,31,3,0.354033285,93,7,0.292245365
+139,path:mmu04137,Mitophagy - animal - Mus musculus (mouse),0,0,1,63,5,0.429317584,63,5,0.300090675
+61,path:mmu00601,Glycosphingolipid biosynthesis - lacto and neolacto series - Mus musculus (mouse),54,0,1,27,6,0.008368991,81,6,0.327559756
+233,path:mmu04927,Cortisol synthesis and secretion - Mus musculus (mouse),12,1,0.324378073,69,5,0.509743833,81,6,0.327559756
+174,path:mmu04540,Gap junction - Mus musculus (mouse),11,0,1,86,7,0.3690725,97,7,0.329771013
+246,path:mmu04966,Collecting duct acid secretion - Mus musculus (mouse),8,0,1,27,3,0.277705398,35,3,0.330393533
+214,path:mmu04750,Inflammatory mediator regulation of TRP channels - Mus musculus (mouse),35,1,0.682619654,127,10,0.363638415,162,11,0.336475233
+1,path:mmu00010,Glycolysis / Gluconeogenesis - Mus musculus (mouse),31,1,0.637916562,67,6,0.304244657,98,7,0.339271555
+276,path:mmu05146,Amoebiasis - Mus musculus (mouse),13,1,0.346140127,103,7,0.558046129,116,8,0.357126385
+145,path:mmu04146,Peroxisome - Mus musculus (mouse),0,0,1,84,6,0.512701514,84,6,0.358866673
+148,path:mmu04152,AMPK signaling pathway - Mus musculus (mouse),23,3,0.035712518,126,7,0.763236623,149,10,0.361239651
+227,path:mmu04921,Oxytocin signaling pathway - Mus musculus (mouse),12,0,1,154,11,0.479562065,166,11,0.366071484
+140,path:mmu04140,Autophagy - animal - Mus musculus (mouse),4,0,1,130,9,0.529020159,134,9,0.372047983
+269,path:mmu05133,Pertussis - Mus musculus (mouse),10,0,1,76,6,0.41542372,86,6,0.379848462
+229,path:mmu04923,Regulation of lipolysis in adipocytes - Mus musculus (mouse),14,1,0.367207441,56,4,0.535232905,70,5,0.38144045
+307,path:mmu05221,Acute myeloid leukemia - Mus musculus (mouse),1,0,1,69,5,0.509743833,70,5,0.38144045
+245,path:mmu04964,Proximal tubule bicarbonate reclamation - Mus musculus (mouse),17,1,0.42645733,22,2,0.447346279,39,3,0.394670972
+205,path:mmu04724,Glutamatergic synapse - Mus musculus (mouse),8,1,0.229917488,114,7,0.665892668,122,8,0.410601218
+239,path:mmu04934,Cushing syndrome - Mus musculus (mouse),13,1,0.346140127,159,10,0.648987238,172,11,0.410998781
+177,path:mmu04611,Platelet activation - Mus musculus (mouse),14,0,1,125,9,0.480881633,139,9,0.413851219
+60,path:mmu00600,Sphingolipid metabolism - Mus musculus (mouse),25,2,0.190556018,48,3,0.643704637,73,5,0.416399852
+132,path:mmu04110,Cell cycle - Mus musculus (mouse),0,0,1,123,8,0.60533429,123,8,0.419526646
+267,path:mmu05100,Bacterial invasion of epithelial cells - Mus musculus (mouse),0,0,1,74,5,0.573056819,74,5,0.427991305
+299,path:mmu05213,Endometrial cancer - Mus musculus (mouse),1,0,1,58,4,0.563474351,59,4,0.447736288
+228,path:mmu04922,Glucagon signaling pathway - Mus musculus (mouse),26,4,0.008703292,102,4,0.923677815,128,8,0.463941116
+25,path:mmu00290,"Valine, leucine and isoleucine biosynthesis - Mus musculus (mouse)",23,2,0.167274429,4,0,1,27,2,0.468607384
+68,path:mmu00670,One carbon pool by folate - Mus musculus (mouse),9,0,1,19,2,0.374465722,28,2,0.487826971
+69,path:mmu00730,Thiamine metabolism - Mus musculus (mouse),31,1,0.637916562,15,2,0.272056344,46,3,0.502283288
+242,path:mmu04960,Aldosterone-regulated sodium reabsorption - Mus musculus (mouse),8,0,1,38,3,0.483645941,46,3,0.502283288
+24,path:mmu00280,"Valine, leucine and isoleucine degradation - Mus musculus (mouse)",42,2,0.392783652,56,4,0.535232905,98,6,0.504106309
+150,path:mmu04211,Longevity regulating pathway - Mus musculus (mouse),8,1,0.229917488,90,5,0.74242571,98,6,0.504106309
+303,path:mmu05217,Basal cell carcinoma - Mus musculus (mouse),1,0,1,63,4,0.629726726,64,4,0.51145717
+208,path:mmu04727,GABAergic synapse - Mus musculus (mouse),9,1,0.25469287,90,5,0.74242571,99,6,0.514125612
+179,path:mmu04614,Renin-angiotensin system - Mus musculus (mouse),11,0,1,36,3,0.447667568,47,3,0.516874839
+82,path:mmu00970,Aminoacyl-tRNA biosynthesis - Mus musculus (mouse),52,7,0.001174186,66,0,1,118,7,0.528957758
+237,path:mmu04932,Non-alcoholic fatty liver disease (NAFLD) - Mus musculus (mouse),2,0,1,151,9,0.708230241,153,9,0.529239143
+48,path:mmu00531,Glycosaminoglycan degradation - Mus musculus (mouse),27,0,1,21,3,0.168295678,48,3,0.531233216
+167,path:mmu04390,Hippo signaling pathway - Mus musculus (mouse),0,0,1,154,9,0.729879646,154,9,0.537222531
+113,path:mmu03450,Non-homologous end-joining - Mus musculus (mouse),0,0,1,13,1,0.600296342,13,1,0.539503045
+135,path:mmu04120,Ubiquitin mediated proteolysis - Mus musculus (mouse),0,0,1,139,8,0.738430099,139,8,0.558448077
+49,path:mmu00532,Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate - Mus musculus (mouse),12,0,1,20,2,0.399245428,32,2,0.560175411
+198,path:mmu04710,Circadian rhythm - Mus musculus (mouse),2,0,1,30,2,0.615407803,32,2,0.560175411
+59,path:mmu00592,alpha-Linolenic acid metabolism - Mus musculus (mouse),44,2,0.415563586,25,2,0.515217354,69,4,0.571612492
+64,path:mmu00620,Pyruvate metabolism - Mus musculus (mouse),31,0,1,38,4,0.25747586,69,4,0.571612492
+34,path:mmu00430,Taurine and hypotaurine metabolism - Mus musculus (mouse),22,0,1,11,2,0.169429219,33,2,0.57708448
+156,path:mmu04260,Cardiac muscle contraction - Mus musculus (mouse),4,0,1,84,5,0.685418582,88,5,0.581999815
+248,path:mmu04971,Gastric acid secretion - Mus musculus (mouse),14,0,1,74,5,0.573056819,88,5,0.581999815
+206,path:mmu04725,Cholinergic synapse - Mus musculus (mouse),12,0,1,113,7,0.656779459,125,7,0.590847219
+216,path:mmu04910,Insulin signaling pathway - Mus musculus (mouse),4,0,1,140,8,0.745614896,144,8,0.599019404
+22,path:mmu00260,"Glycine, serine and threonine metabolism - Mus musculus (mouse)",50,2,0.481203221,40,3,0.518467198,90,5,0.602179713
+109,path:mmu03410,Base excision repair - Mus musculus (mouse),0,0,1,35,2,0.698947125,35,2,0.609459492
+72,path:mmu00760,Nicotinate and nicotinamide metabolism - Mus musculus (mouse),55,0,1,36,5,0.094657415,91,5,0.612059761
+165,path:mmu04371,Apelin signaling pathway - Mus musculus (mouse),9,0,1,139,8,0.738430099,148,8,0.630091525
+31,path:mmu00380,Tryptophan metabolism - Mus musculus (mouse),82,2,0.747473363,48,5,0.226161922,130,7,0.632439332
+236,path:mmu04931,Insulin resistance - Mus musculus (mouse),20,0,1,110,7,0.628566851,130,7,0.632439332
+224,path:mmu04918,Thyroid hormone synthesis - Mus musculus (mouse),21,2,0.14455645,73,3,0.88253803,94,5,0.640824682
+26,path:mmu00310,Lysine degradation - Mus musculus (mouse),54,5,0.028182876,59,1,0.984601887,113,6,0.644429287
+217,path:mmu04911,Insulin secretion - Mus musculus (mouse),12,0,1,86,5,0.705314254,98,5,0.677051992
+175,path:mmu04550,Signaling pathways regulating pluripotency of stem cells - Mus musculus (mouse),0,0,1,137,7,0.832813841,137,7,0.686426566
+46,path:mmu00520,Amino sugar and nucleotide sugar metabolism - Mus musculus (mouse),108,3,0.681791314,49,5,0.238966542,157,8,0.694888023
+81,path:mmu00920,Sulfur metabolism - Mus musculus (mouse),33,1,0.660997428,9,1,0.469913463,42,2,0.707824034
+120,path:mmu04022,cGMP-PKG signaling pathway - Mus musculus (mouse),10,1,0.278678249,172,8,0.907143938,182,9,0.733462958
+57,path:mmu00590,Arachidonic acid metabolism - Mus musculus (mouse),75,0,1,89,8,0.25847864,164,8,0.739984101
+86,path:mmu01040,Biosynthesis of unsaturated fatty acids - Mus musculus (mouse),74,0,1,32,5,0.062919877,106,5,0.741925831
+161,path:mmu04340,Hedgehog signaling pathway - Mus musculus (mouse),1,0,1,44,2,0.811229579,45,2,0.743205239
+244,path:mmu04962,Vasopressin-regulated water reabsorption - Mus musculus (mouse),2,0,1,43,2,0.800904302,45,2,0.743205239
+203,path:mmu04722,Neurotrophin signaling pathway - Mus musculus (mouse),5,0,1,121,6,0.840738404,126,6,0.744471857
+295,path:mmu05206,MicroRNAs in cancer - Mus musculus (mouse),0,0,1,281,14,0.917485799,281,14,0.756914477
+116,path:mmu04012,ErbB signaling pathway - Mus musculus (mouse),4,0,1,84,4,0.832774335,88,4,0.757246472
+5,path:mmu00051,Fructose and mannose metabolism - Mus musculus (mouse),54,2,0.522415818,35,2,0.698947125,89,4,0.765015312
+67,path:mmu00650,Butanoate metabolism - Mus musculus (mouse),42,0,1,27,3,0.277705398,69,3,0.770466247
+85,path:mmu00983,Drug metabolism - other enzymes - Mus musculus (mouse),63,3,0.329342256,87,4,0.852424415,150,7,0.772393089
+266,path:mmu05034,Alcoholism - Mus musculus (mouse),10,0,1,199,10,0.878853308,209,10,0.776086175
+40,path:mmu00500,Starch and sucrose metabolism - Mus musculus (mouse),37,1,0.702874623,33,2,0.667490955,70,3,0.778854075
+168,path:mmu04392,Hippo signaling pathway - multiple species - Mus musculus (mouse),0,0,1,26,1,0.840466939,26,1,0.788126474
+230,path:mmu04924,Renin secretion - Mus musculus (mouse),17,1,0.42645733,76,3,0.898490529,93,4,0.794160552
+158,path:mmu04270,Vascular smooth muscle contraction - Mus musculus (mouse),16,0,1,140,7,0.848695989,156,7,0.805707137
+121,path:mmu04024,cAMP signaling pathway - Mus musculus (mouse),25,1,0.558915211,211,10,0.916946561,236,11,0.811141792
+2,path:mmu00020,Citrate cycle (TCA cycle) - Mus musculus (mouse),20,2,0.133464004,32,0,1,52,2,0.811714093
+19,path:mmu00232,Caffeine metabolism - Mus musculus (mouse),22,1,0.513233528,6,0,1,28,1,0.811993029
+119,path:mmu04020,Calcium signaling pathway - Mus musculus (mouse),10,0,1,189,9,0.904460967,199,9,0.820950341
+159,path:mmu04310,Wnt signaling pathway - Mus musculus (mouse),1,0,1,161,7,0.928642279,162,7,0.835155829
+51,path:mmu00534,Glycosaminoglycan biosynthesis - heparan sulfate / heparin - Mus musculus (mouse),7,0,1,24,1,0.816236696,31,1,0.842854093
+74,path:mmu00780,Biotin metabolism - Mus musculus (mouse),28,1,0.600345441,3,0,1,31,1,0.842854093
+262,path:mmu05030,Cocaine addiction - Mus musculus (mouse),8,0,1,48,2,0.8479018,56,2,0.843093333
+222,path:mmu04916,Melanogenesis - Mus musculus (mouse),6,0,1,100,4,0.916410414,106,4,0.869255409
+104,path:mmu03030,DNA replication - Mus musculus (mouse),0,0,1,35,1,0.915602343,35,1,0.876278858
+13,path:mmu00120,Primary bile acid biosynthesis - Mus musculus (mouse),47,0,1,16,2,0.29798091,63,2,0.88679238
+35,path:mmu00440,Phosphonate and phosphinate metabolism - Mus musculus (mouse),57,2,0.551875427,6,0,1,63,2,0.88679238
+243,path:mmu04961,Endocrine and other factor-regulated calcium reabsorption - Mus musculus (mouse),8,0,1,55,2,0.896831787,63,2,0.88679238
+71,path:mmu00750,Vitamin B6 metabolism - Mus musculus (mouse),28,1,0.600345441,9,0,1,37,1,0.89022564
+151,path:mmu04213,Longevity regulating pathway - multiple species - Mus musculus (mouse),2,0,1,62,2,0.930776311,64,2,0.892024989
+157,path:mmu04261,Adrenergic signaling in cardiomyocytes - Mus musculus (mouse),10,0,1,148,6,0.943463867,158,6,0.901236849
+23,path:mmu00270,Cysteine and methionine metabolism - Mus musculus (mouse),63,2,0.606922696,52,2,0.877981276,115,4,0.906267709
+79,path:mmu00900,Terpenoid backbone biosynthesis - Mus musculus (mouse),45,1,0.771858127,23,1,0.802777133,68,2,0.910785832
+112,path:mmu03440,Homologous recombination - Mus musculus (mouse),0,0,1,41,1,0.944815628,41,1,0.913585219
+9,path:mmu00062,Fatty acid elongation - Mus musculus (mouse),40,0,1,29,2,0.596710127,69,2,0.914974476
+220,path:mmu04914,Progesterone-mediated oocyte maturation - Mus musculus (mouse),4,0,1,90,3,0.949993825,94,3,0.915147327
+162,path:mmu04350,TGF-beta signaling pathway - Mus musculus (mouse),0,0,1,95,3,0.961527917,95,3,0.918654083
+247,path:mmu04970,Salivary secretion - Mus musculus (mouse),17,0,1,78,3,0.908014796,95,3,0.918654083
+210,path:mmu04730,Long-term depression - Mus musculus (mouse),9,0,1,61,2,0.926672596,70,2,0.918978017
+250,path:mmu04973,Carbohydrate digestion and absorption - Mus musculus (mouse),27,0,1,43,2,0.800904302,70,2,0.918978017
+133,path:mmu04114,Oocyte meiosis - Mus musculus (mouse),4,0,1,116,4,0.960526442,120,4,0.922541485
+249,path:mmu04972,Pancreatic secretion - Mus musculus (mouse),15,0,1,105,4,0.933517862,120,4,0.922541485
+32,path:mmu00400,"Phenylalanine, tyrosine and tryptophan biosynthesis - Mus musculus (mouse)",35,1,0.682619654,8,0,1,43,1,0.923331291
+212,path:mmu04742,Taste transduction - Mus musculus (mouse),33,3,0.087559947,88,1,0.99804207,121,4,0.925474881
+36,path:mmu00450,Selenocompound metabolism - Mus musculus (mouse),27,1,0.586982757,17,0,1,44,1,0.927784596
+103,path:mmu03022,Basal transcription factors - Mus musculus (mouse),0,0,1,44,1,0.955382148,44,1,0.927784596
+84,path:mmu00982,Drug metabolism - cytochrome P450 - Mus musculus (mouse),100,3,0.629930988,68,3,0.850965698,168,6,0.9290433
+204,path:mmu04723,Retrograde endocannabinoid signaling - Mus musculus (mouse),19,0,1,150,6,0.947938327,169,6,0.93140386
+231,path:mmu04925,Aldosterone synthesis and secretion - Mus musculus (mouse),22,1,0.513233528,102,3,0.973537509,124,4,0.933684747
+10,path:mmu00071,Fatty acid degradation - Mus musculus (mouse),50,0,1,50,3,0.671165429,100,3,0.934282059
+265,path:mmu05033,Nicotine addiction - Mus musculus (mouse),7,0,1,40,1,0.940765082,47,1,0.939653584
+58,path:mmu00591,Linoleic acid metabolism - Mus musculus (mouse),28,0,1,50,2,0.86369971,78,2,0.945177705
+66,path:mmu00640,Propanoate metabolism - Mus musculus (mouse),48,0,1,31,2,0.633433632,79,2,0.947819289
+45,path:mmu00515,Mannose type O-glycan biosynthesis - Mus musculus (mouse),27,0,1,23,1,0.802777133,50,1,0.949574184
+114,path:mmu03460,Fanconi anemia pathway - Mus musculus (mouse),0,0,1,51,1,0.972835979,51,1,0.952504886
+219,path:mmu04913,Ovarian steroidogenesis - Mus musculus (mouse),24,0,1,57,2,0.907854202,81,2,0.952742981
+199,path:mmu04713,Circadian entrainment - Mus musculus (mouse),9,0,1,99,3,0.968904364,108,3,0.953633135
+76,path:mmu00790,Folate biosynthesis - Mus musculus (mouse),57,2,0.551875427,26,0,1,83,2,0.95722105
+131,path:mmu04080,Neuroactive ligand-receptor interaction - Mus musculus (mouse),52,1,0.819039638,348,15,0.982279427,400,16,0.958301395
+41,path:mmu00510,N-Glycan biosynthesis - Mus musculus (mouse),37,0,1,50,2,0.86369971,87,2,0.964988642
+209,path:mmu04728,Dopaminergic synapse - Mus musculus (mouse),12,0,1,135,4,0.984717708,147,4,0.973966008
+254,path:mmu04977,Vitamin digestion and absorption - Mus musculus (mouse),39,0,1,24,1,0.816236696,63,1,0.976856677
+257,path:mmu05010,Alzheimer disease - Mus musculus (mouse),7,0,1,175,5,0.99375254,182,5,0.982521224
+78,path:mmu00860,Porphyrin and chlorophyll metabolism - Mus musculus (mouse),142,2,0.947908249,41,3,0.53539535,183,5,0.983213886
+258,path:mmu05012,Parkinson disease - Mus musculus (mouse),15,1,0.387601998,144,3,0.997550057,159,4,0.984402192
+141,path:mmu04141,Protein processing in endoplasmic reticulum - Mus musculus (mouse),6,0,1,163,4,0.996545273,169,4,0.98993203
+8,path:mmu00061,Fatty acid biosynthesis - Mus musculus (mouse),58,0,1,19,1,0.738354009,77,1,0.990005618
+260,path:mmu05016,Huntington disease - Mus musculus (mouse),3,0,1,194,5,0.997655658,197,5,0.990565574
+263,path:mmu05031,Amphetamine addiction - Mus musculus (mouse),10,0,1,68,1,0.991874712,78,1,0.990587799
+207,path:mmu04726,Serotonergic synapse - Mus musculus (mouse),42,1,0.748079721,132,3,0.995067957,174,4,0.991938612
+77,path:mmu00830,Retinol metabolism - Mus musculus (mouse),25,0,1,91,2,0.987791342,116,2,0.992141491
+97,path:mmu03008,Ribosome biogenesis in eukaryotes - Mus musculus (mouse),0,0,1,116,2,0.997452797,116,2,0.992141491
+101,path:mmu03018,RNA degradation - Mus musculus (mouse),0,0,1,83,1,0.99720457,83,1,0.993028381
+16,path:mmu00190,Oxidative phosphorylation - Mus musculus (mouse),16,0,1,134,3,0.995606644,150,3,0.993391793
+47,path:mmu00524,"Neomycin, kanamycin and gentamicin biosynthesis - Mus musculus (mouse)",81,0,1,5,1,0.297095605,86,1,0.994177734
+83,path:mmu00980,Metabolism of xenobiotics by cytochrome P450 - Mus musculus (mouse),121,0,1,66,4,0.666244221,187,4,0.995520567
+253,path:mmu04976,Bile secretion - Mus musculus (mouse),174,0,1,72,6,0.365761534,246,6,0.996362253
+200,path:mmu04714,Thermogenesis - Mus musculus (mouse),23,0,1,232,6,0.998908409,255,6,0.997506184
+29,path:mmu00350,Tyrosine metabolism - Mus musculus (mouse),78,0,1,40,1,0.940765082,118,1,0.999150334
+293,path:mmu05204,Chemical carcinogenesis - Mus musculus (mouse),99,0,1,94,3,0.959442163,193,3,0.999219955
+99,path:mmu03013,RNA transport - Mus musculus (mouse),3,0,1,167,2,0.999907828,170,2,0.999572857
+12,path:mmu00100,Steroid biosynthesis - Mus musculus (mouse),50,0,1,19,0,1,69,0,1
+14,path:mmu00130,Ubiquinone and other terpenoid-quinone biosynthesis - Mus musculus (mouse),92,0,1,11,0,1,103,0,1
+15,path:mmu00140,Steroid hormone biosynthesis - Mus musculus (mouse),99,0,1,89,0,1,188,0,1
+30,path:mmu00360,Phenylalanine metabolism - Mus musculus (mouse),72,0,1,23,0,1,95,0,1
+44,path:mmu00514,Other types of O-glycan biosynthesis - Mus musculus (mouse),0,0,1,22,0,1,22,0,1
+54,path:mmu00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Mus musculus (mouse),16,0,1,25,0,1,41,0,1
+75,path:mmu00785,Lipoic acid metabolism - Mus musculus (mouse),6,0,1,3,0,1,9,0,1
+87,path:mmu01100,Metabolic pathways - Mus musculus (mouse),0,0,1,0,0,1,0,0,1
+88,path:mmu01200,Carbon metabolism - Mus musculus (mouse),0,0,1,0,0,1,0,0,1
+89,path:mmu01210,2-Oxocarboxylic acid metabolism - Mus musculus (mouse),0,0,1,0,0,1,0,0,1
+90,path:mmu01212,Fatty acid metabolism - Mus musculus (mouse),0,0,1,0,0,1,0,0,1
+91,path:mmu01230,Biosynthesis of amino acids - Mus musculus (mouse),0,0,1,0,0,1,0,0,1
+92,path:mmu01521,EGFR tyrosine kinase inhibitor resistance - Mus musculus (mouse),0,0,1,0,0,1,0,0,1
+93,path:mmu01522,Endocrine resistance - Mus musculus (mouse),0,0,1,0,0,1,0,0,1
+94,path:mmu01523,Antifolate resistance - Mus musculus (mouse),0,0,1,0,0,1,0,0,1
+95,path:mmu01524,Platinum drug resistance - Mus musculus (mouse),0,0,1,0,0,1,0,0,1
+98,path:mmu03010,Ribosome - Mus musculus (mouse),0,0,1,175,0,1,175,0,1
+100,path:mmu03015,mRNA surveillance pathway - Mus musculus (mouse),0,0,1,96,0,1,96,0,1
+102,path:mmu03020,RNA polymerase - Mus musculus (mouse),0,0,1,30,0,1,30,0,1
+105,path:mmu03040,Spliceosome - Mus musculus (mouse),0,0,1,133,0,1,133,0,1
+106,path:mmu03050,Proteasome - Mus musculus (mouse),0,0,1,46,0,1,46,0,1
+107,path:mmu03060,Protein export - Mus musculus (mouse),0,0,1,28,0,1,28,0,1
+110,path:mmu03420,Nucleotide excision repair - Mus musculus (mouse),0,0,1,43,0,1,43,0,1
+111,path:mmu03430,Mismatch repair - Mus musculus (mouse),0,0,1,22,0,1,22,0,1
+136,path:mmu04122,Sulfur relay system - Mus musculus (mouse),11,0,1,8,0,1,19,0,1
+137,path:mmu04130,SNARE interactions in vesicular transport - Mus musculus (mouse),0,0,1,33,0,1,33,0,1
+138,path:mmu04136,Autophagy - other - Mus musculus (mouse),3,0,1,32,0,1,35,0,1
+201,path:mmu04720,Long-term potentiation - Mus musculus (mouse),7,0,1,67,0,1,74,0,1
+211,path:mmu04740,Olfactory transduction - Mus musculus (mouse),8,1,0.229917488,1134,9,1,1142,10,1
+213,path:mmu04744,Phototransduction - Mus musculus (mouse),8,0,1,27,0,1,35,0,1
+241,path:mmu04950,Maturity onset diabetes of the young - Mus musculus (mouse),0,0,1,27,0,1,27,0,1
